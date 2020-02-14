@@ -4,6 +4,6 @@ public class Main {
         int test = 5;
         double t = 9;
         String d = "das";
-        System.out.println(test);
+        System.out.println(t);
     }
 }
