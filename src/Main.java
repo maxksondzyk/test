@@ -4,6 +4,6 @@ public class Main {
         int test = 5;
         double t = 91;
         String d = "das";
-        System.out.println(t);
+        System.out.println("Ya ne hochu ehat na levak");
     }
 }
