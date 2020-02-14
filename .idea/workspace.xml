@@ -15,6 +15,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hmarky" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,11 +69,15 @@
       <updated>1581685957529</updated>
       <workItem from="1581685960897" duration="405000" />
       <workItem from="1581686388560" duration="124000" />
-      <workItem from="1581698398903" duration="376000" />
+      <workItem from="1581698398903" duration="2157000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1581700147365">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581700147365" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1581698786564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
