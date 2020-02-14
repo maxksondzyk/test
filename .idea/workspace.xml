@@ -16,6 +16,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\clouds\Test\src" />
+      <recent name="C:\Users\Max\clouds\Test" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -62,26 +68,27 @@
       <updated>1581685957529</updated>
       <workItem from="1581685960897" duration="405000" />
       <workItem from="1581686388560" duration="124000" />
+      <workItem from="1581698398903" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1581698511563">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1581698786564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581698511563" />
-    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1581698511562">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581698786564" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1581698786564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581698511562" />
-    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1581698511562">
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581698786564" />
+    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1581698786564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581698511562" />
-    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1581698511562">
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581698786564" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1581698786564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581698511562" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581698786564" />
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1581698458269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
