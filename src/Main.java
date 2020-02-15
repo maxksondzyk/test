@@ -5,5 +5,6 @@ public class Main {
         double t = 914;
         String d = "jhfskn";
         System.out.println(t);
+       
     }
 }
